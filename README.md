@@ -1,4 +1,4 @@
-#  Subset Selection Problem 
+#  Subset Selection Problem (By Nishit Mittal) 
 ---
 ### 1. Problem Statement:
 ---
